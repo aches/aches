@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 🔭 I’m currently working on Glass
- 
- 🌱 I’m currently learning Docker.
+ 🔭 I’m currently working on Play
  
  📫 How to reach me: bzg0382@gmail.com
